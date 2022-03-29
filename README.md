@@ -10,13 +10,13 @@ Stylesheet: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css
 
 The starter code was provided by MIT xPro.
 
-## Roadmap of Fugure Improvements
+## Roadmap of Future Improvements
 
 Ideas include adding other bus routes to other areas of the island.
 
 ## Questions or Comments?
 
-Connect with me on Twitter at @KristineDugan <https://twitter.com/kristinedugan> or LinkedIn @KristineDugan <https://linkedin.com/in/kristinedugan>
+Connect with me on Twitter at <https://twitter.com/kristinedugan> or LinkedIn <https://linkedin.com/in/kristinedugan>
 
 ## License Information
 
