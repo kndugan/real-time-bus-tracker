@@ -6,11 +6,6 @@ Demonstrate web application using the MapBox API to create and display a map of 
 
 <img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243b1d320fc4017a3ce6c55/1648603603829/bus+tracker.png" width='400'/>
 
-- MapBox Open-Source Platform: https://www.mapbox.com/
-- JavaScript: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js
-- Stylesheet: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css
-- To create an Access Key for yourself, sign up at: https://www.mapbox.com/
-
 The starter code was provided by MIT xPro.
 
 ## How to Run
@@ -28,6 +23,11 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 ## License Information
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
+
+- MapBox Open-Source Platform: https://www.mapbox.com/
+- JavaScript: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js
+- Stylesheet: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css
+- To create an Access Key for yourself, sign up at: https://www.mapbox.com/
 
 ### Mapbox End User License Agreement
 
