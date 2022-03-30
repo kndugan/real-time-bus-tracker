@@ -10,12 +10,12 @@ var map = new mapboxgl.Map({
  
 });
 
-// center marker in Lihue
+// Center marker in Lihue
 var marker = new mapboxgl.Marker()
   .setLngLat([-159.369318, 21.976709])
   .addTo(map);
 
-// bus stops between Lihue, Hawaii and Hanalei, Hawaii on Kauai
+// Bus stops between Lihue, Hawaii and Hanalei, Hawaii on Kauai
 const busStops = [
   [-159.3677856, 21.9754634], // 1 Eiwa St.
   [-159.3668104, 21.9844342], // 2 Across from Fish Express
