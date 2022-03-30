@@ -26,9 +26,9 @@ Some implementations and solutions in this project are derived from the provided
 
 [MapBox Open-Source Platform](https://www.mapbox.com)
 
+- To create an Access Key for yourself, sign up at: https://www.mapbox.com/
 - JavaScript: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js
 - Stylesheet: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css
-- To create an Access Key for yourself, sign up at: https://www.mapbox.com/
 
 ### Mapbox End User License Agreement
 
