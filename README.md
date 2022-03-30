@@ -2,7 +2,7 @@
 
 ## Description
 
-Demonstrate web application using the MapBox API to create and display a map of Kauai, Hawaii. By utilizing JavaScript, HTML, and CSS I've create a Map Marker to show bus stops between Lihue and Hanalai on Kauai.
+Demonstrate web application using the [MapBox API](https://www.mapbox.com) to create and display a map of Kauai, Hawaii. By utilizing JavaScript, HTML, and CSS I've create a Map Marker to show bus stops between Lihue and Hanalai on Kauai.
 
 <img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243b1d320fc4017a3ce6c55/1648603603829/bus+tracker.png" width='400'/>
 
@@ -24,7 +24,8 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
 
-- MapBox Open-Source Platform: https://www.mapbox.com/
+[MapBox Open-Source Platform](https://www.mapbox.com)
+
 - JavaScript: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js
 - Stylesheet: https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css
 - To create an Access Key for yourself, sign up at: https://www.mapbox.com/
